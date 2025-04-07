@@ -37,6 +37,7 @@
 </br>
 <div>
   
-<img src="https://github-readme-stats.vercel.app/api?username=catcatsang&show_icons=true&theme=synthwave" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catcatsang&layout=compact&theme=synthwave" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=catcatsang&show_icons=true&theme=algolia" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catcatsang&layout=compact&theme=algolia" height="180"/>
+
 </div>
