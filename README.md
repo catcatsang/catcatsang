@@ -36,7 +36,9 @@
 </br>
 </br>
 <div>
-  
+
+<img src="https://readme-typing-svg.herokuapp.com?color=0ff0fc&lines=Welcome+to+my+Cyberpunk+World;I+code+in+the+dark;With+neon+dreams..." />
+
 <img src="https://github-readme-stats.vercel.app/api?username=catcatsang&show_icons=true&theme=algolia" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catcatsang&layout=compact&theme=algolia" height="180"/>
 
