@@ -1,12 +1,11 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=200&section=header&text=SeWoong%20in%20CyberSpace&fontSize=42&fontAlignY=40&fontColor=ffffff" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=200&section=header&text=SeWoong%20in%20Github&fontSize=42&fontAlignY=40&fontColor=ffffff" />
 
 
 </div>
 </div>
 </br>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&duration=3000&pause=500&color=00FFF0&center=true&vCenter=true&width=435&lines=👾+Code+Hacker+in+the+Neon+World;⚡+Dreaming+in+Typescript+%26+SpringBoot;🚀+Living+on+the+Edge+of+Tech" />
+
 </div>
 </br>
 </br>
