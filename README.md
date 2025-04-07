@@ -36,6 +36,7 @@
 </br>
 </br>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=catcatsang&theme=prussian&show_icons=true" height="180"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f20089,100:0ff0fc&height=250&section=header&text=📊%20Stats%20&fontSize=50&fontAlign=50&fontColor=ffffff&desc=Cyberpunk%20vibes%20activated&descSize=20&descAlign=50" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catcatsang&layout=compact&theme=prussian" height="180"/>
 </div>
