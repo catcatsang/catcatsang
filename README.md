@@ -1,5 +1,6 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=0:ff00cc,100:333399&height=200&section=header&text=SeWoong.exe&fontSize=40&fontColor=ffffff" />
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6a11cb,100:2575fc&height=200&section=header&text=Neon%20Dev%20Zone&fontSize=42&fontAlignY=50&fontColor=ffffff" />
+
 
 </div>
 </div>
