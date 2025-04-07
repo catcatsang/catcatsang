@@ -12,8 +12,8 @@
 
 
 ## 🧑‍💻 Profile
-👩 허세웅 <br>
-👶 1999.07.12 <br>
+🧐 허세웅 <br>
+🥳 1999.07.12 <br>
 📞 010-9866-5612 <br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rksel0712@gmail.com)	![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
