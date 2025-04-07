@@ -5,11 +5,12 @@
 </div>
 </div>
 </br>
-</br>
-</br>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&duration=3000&pause=500&color=00FFF0&center=true&vCenter=true&width=435&lines=👾+Code+Hacker+in+the+Neon+World;⚡+Dreaming+in+Typescript+%26+SpringBoot;🚀+Living+on+the+Edge+of+Tech" />
 </div>
+</br>
+</br>
+
 
 ## 🧑‍💻 Profile
 👩 허세웅 <br>
