@@ -37,6 +37,7 @@
 
 </br>
 </br>
+## 📈 Statistical Graph
 <div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=catcatsang&show_icons=true&theme=algolia" height="180"/>
