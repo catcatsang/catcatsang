@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2193b0,100:6dd5ed&height=200&section=header&text=JisooHahn's%20Github&fontSize=45&fontAlignY=50&fontColor=ffffff" />
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2193b0,100:6dd5ed&height=200&section=header&text=SeWoongHeo's%20Github&fontSize=45&fontAlignY=50&fontColor=ffffff" />
 </div>
 </div>
 </br>
@@ -7,9 +7,9 @@
 </br>
 
 ## 🧑‍💻 Profile
-👩 한지수 <br>
-👶 2001.07.25 <br>
-📞 010-8789-9583 <br>
+👩 허세웅 <br>
+👶 1999.07.12 <br>
+📞 010-9866-5612 <br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luna99954@gmail.com)	![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
