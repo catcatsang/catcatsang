@@ -1,7 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=200&section=header&text=SeWoong%20in%20CyberSpace&fontSize=42&fontAlignY=40&fontColor=ffffff" />
-
-
+    <img src="https://capsule-render.vercel.app/api?type=slice&color=0:ff00cc,100:333399&height=200&section=header&text=SeWoong.exe&fontSize=40&fontColor=ffffff" />
 
 </div>
 </div>
